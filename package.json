@@ -9,11 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vue/compiler-sfc": "^3.5.29",
     "pg": "^8.20.0",
-    "vue": "^3.5.25"
+    "vue": "^3.5.29"
   },
   "devDependencies": {
-    "@types/node": "^24.10.1",
+    "@types/node": "^24.11.0",
+    "@types/vue": "^1.0.31",
     "@vitejs/plugin-vue": "^6.0.2",
     "@vue/tsconfig": "^0.8.1",
     "typescript": "~5.9.3",
